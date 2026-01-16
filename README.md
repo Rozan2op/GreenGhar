@@ -1,6 +1,6 @@
 Title: GreenGhar
 This is a necessary file for our hardware hackathon project on Modern Agriculture theme.
-The txt file is an arduino uno file and py file is a python file.
+The txt file is an arduino uno and py file is a python file.
 Python file is used to add voice control system to out project.
 You need python 3.12 version to use this feature.
 After installing python 3.12 version, run these commands in Powershell to install necessary modules.
